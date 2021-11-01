@@ -1,5 +1,5 @@
 # Evolutionary_Strategy
-An implementation of Evolutionary Algorythm,by pure java,
+An implementation of Evolutionary Algorythm, in pure java,
 This project icludes:
 1. faster offspring evaluation, by implementing simultaneously evaluation.
 2. user friendly interface provided to adjust algorythm settings as easy as possible.
