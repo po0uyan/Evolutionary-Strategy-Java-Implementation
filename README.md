@@ -6,4 +6,4 @@ This project icludes:
 3. innovative inline and realtime cost function compilation, which is possible to provide as a java code in application iterface. 
 4. preconfigured and written famouse objective functions, which is selectable within the application ui. 
 
-** this project is developed for academic usage **
+**this project is developed for academic purposes**
